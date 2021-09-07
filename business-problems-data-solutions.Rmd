@@ -1,0 +1,26 @@
+---
+title: "Assigment - Data Problems vs Data Solutions"
+author: name author here
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
+
+<---- Embed code here ---->
+
+
+## What was the business problem?
+
+Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+
+## How was it translated into a data mining problem?
+
+Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+
+## What is the realized business value?
+
+Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 

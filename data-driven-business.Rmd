@@ -1,0 +1,25 @@
+---
+title: "Assigment - Data Driven Business"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
+
+<---- Embed code here ---->
+
+
+## What features define a data driven business?
+
+Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+
+## What are the important features of a data culture?
+
+Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+
+## What are the transformation steps towards a mature data driven business?
+Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+
