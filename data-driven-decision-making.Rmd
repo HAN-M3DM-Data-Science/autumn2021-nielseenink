@@ -1,8 +1,12 @@
 ---
 title: "Assigment - Data Driven Decision Making"
-author: Niels Eenink
+author: "Niels Eenink"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
+  html_document:
+    toc: yes
+    toc_depth: '2'
+    df_print: paged
   html_notebook:
     toc: yes
     toc_depth: 2
@@ -12,11 +16,12 @@ Search Youtube for a suitable business case example on data driven decision maki
 
 <---- Watch this video if you don't know how to embed video's ---->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 
 <---- Replace this video with your business case example ---->
 
-<iframe width="1280" height="720" src="https://youtu.be/embed/6Quj7AiH9tA?t=56" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Quj7AiH9tA?start=56" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
