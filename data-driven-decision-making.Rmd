@@ -1,6 +1,6 @@
 ---
 title: "Assigment - Data Driven Decision Making"
-author: name author here
+author: Niels Eenink
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
