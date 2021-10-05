@@ -1,5 +1,6 @@
 ---
 title: "Assigment - Data Driven Business"
+author: "Niels Eenink"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
@@ -7,7 +8,7 @@ output:
     toc_depth: 2
 ---
 
-Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
+Search YouTube for suitable business case examples on data driven business. Copy the embed code below.
 
 <---- Embed code here ---->
 
