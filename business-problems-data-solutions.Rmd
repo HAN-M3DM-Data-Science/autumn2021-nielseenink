@@ -6,21 +6,68 @@ output:
   html_notebook:
     toc: yes
     toc_depth: 2
+  html_document:
+    toc: yes
+    toc_depth: '2'
+    df_print: paged
 ---
+Business problems at supermarkets where data contributes to the solution.
 
-Search YouTube for a suitable business case example on data driven decision making and copy the embed code below.
+Nice example from Walmart:
+<iframe width="600" height="400" src="https://www.youtube.com/embed/42xErufN1e8?start=30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 
-<---- Embed code here ---->
+**What was the business problem?**
+
+Case: Supermarkets like AH, Lidl, Jumbo, etc.
+The examples in this markdown can and are being implemented at the supermarkets above.
+
+They don't really know what a customer likes on personal level.
+If they want to step up their game and provide their services on a more personal level they need to collect and process more data.
+With this data they can can do all kinds of useful analysis and make better decisions.
 
 
-## What was the business problem?
+**How was it translated into a data mining problem?**
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+I used the ECPLIPSE model, provided by Wilridge and Bell(2002).
 
-## How was it translated into a data mining problem?
+E.	Try to collect as much, relevant and irrelevant data about a customer so predictions and decisions can be made.
+C.	A lot of departments can use this data, like the product department, customer service, finance, etc. 
+L.	Mostly internal, but customers also benefit from this, so a little external.
+I.	When a customer uses the personal offerings and the changes in lay-out etc. bring more revenue.
+P.	Automated using the data collected from the end users (clients)
+SE.	Personal offerings and decision making about product offerings and/or store lay-out
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+So supermarkets can use the data they collect to make more personal offers to their customers.
+Example:
+*"A few years ago, promotions were solely advertised using broadcast media, or through weekly catalogues. These two strategies are expensive and broad-brushed — despite the huge diversity in the customers who come into store, you can only send one message."*
 
-## What is the realized business value?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+**What is the realized business value?**
+
+Stores can give customer specific offers, change the lay-out of the store if a lot of customers think the same or change what they offer.
+It also helps with deciding how many people need to work at certain times to lower the costs.
+
+continuing the quote from the last section about the personal offers:
+
+*"Data science has changed all this with personalised communications to subscribers’ inboxes.*
+
+An example of this:
+*"Woolworths in Australia sends out weekly marketing emails to its few million loyalty card members. Each one is personalised based on a huge model containing millions of features per customer. Instead of just highlighting that week’s biggest promotions, the model takes into account the customer’s previous buying behaviour, including the length of time since they bought specific items. This means the information is not only relevant to the customer’s tastes, but its recommendations are likely to relate to the things they’re running out of this week. By giving such personalised information, the likelihood of customers paying attention, and then going into store and making a purchase, is greatly increased."*
+Farnworth(2020)
+
+An example of changing the lay-out using the customer data is given in a paper written by Ozgormus and Smith (2020) in the journal Computers & Industrial Engineering.
+They write about how data can be used to determine one lay-out for a specific supermarket based on the data the customers provide.
+A very interesting article for a supermarket manager and data analyst/ scientist to read. To quote one of the outcomes:
+*"Results clearly show the value of such an approach –simply by rearranging and resizing the product categories, revenue can be substantially improved."*
+
+In the short time I did this research (this took about 1 to 2 hours) I discovered multiple usefull scenarios where supermarkets can use data driven research and analysis to improve their business. Take some more time to read some articles, experiences from other supermarkets or watch some videos and I'm sure you will find a lot more!
+
+A very interesting subject, that's for sure.
+
+**References**
+
+[Wildridge, Valerie, and Lucy Bell. (2002) “How CLIP Became ECLIPSE: A Mnemonic to Assist in Searching for Health Policy/Management Information.” Health Information & Libraries Journal 19 (2): 113–15. Geraadpleegd op 16-10-2021, van](https://doi.org/https://doi.org/10.1046/j.1471-1842.2002.00378.x.)
+
+[Farnworth, R. (27 July, 2020). "How Data Science and AI are changing Supermarket shopping". Towards Data Science. Geraadpleegd op 16-10-2021, van](https://towardsdatascience.com/how-data-science-and-ai-are-changing-supermarket-shopping-e47f63f4b53f)
+
+[Ozgormus, E., Smith, A. (2020). A data-driven approach to grocery store block layout, Computers & Industrial Engineering, volume 139. Geraadpleegd op 16-10-2021, van](https://www.eng.auburn.edu/~aesmith/files/a-data-driven-approach-to-grocery-store-block-layout.pdf)

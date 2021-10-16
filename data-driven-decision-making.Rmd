@@ -3,13 +3,13 @@ title: "Assigment - Data Driven Decision Making"
 author: "Niels Eenink"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
   html_document:
     toc: yes
     toc_depth: '2'
     df_print: paged
-  html_notebook:
-    toc: yes
-    toc_depth: 2
 ---
 
 Data Driven decision making at the Tour de France.
@@ -17,7 +17,7 @@ Data Driven decision making at the Tour de France.
 <iframe width="600" height="400" src="https://www.youtube.com/embed/6Quj7AiH9tA?start=56" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 
 
-## Why was data driven decision making (3DM) useful in this business case?
+**Why was data driven decision making (3DM) useful in this business case?**
 
 *Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.*
 
@@ -25,7 +25,7 @@ A lot of sports can and will use data to improve their performance. Teams check 
 
 So, not only can the ASO level-up their entertaining factor for the viewers, they can also supply cycling teams with vital information such as GPS speed, location and live video.
 
-## How did the organization apply 3DM?
+**How did the organization apply 3DM?**
 
 *Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.*
 
@@ -38,7 +38,7 @@ The ASO also generates nice graphics after some races on their Twitter, as seen 
 
 ![After race graphic](https://images.squarespace-cdn.com/content/v1/5c6d81d87d0c91244a74be71/1551210296746-FI3ZZMRJ1VF9JID0HJ53/IMG_2201.JPG?format=500w)
 
-## What can the organization do with 3DM that they couldn’t do before?
+**What can the organization do with 3DM that they couldn’t do before?**
 
 *Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.*
 
@@ -52,8 +52,10 @@ Or, How can we protect our riders in crashes? Team DSM (former Team Sunweb) did 
 
 The ASO can give their viewers more insight as written before. They can also use it to determine if someone did something wrong and caused a crash. This can help to punish cyclist or to punish the RIGHT cyclist.
 
-## References
+**References**
 
 [Velon](https://www.velon.cc/about-velon)
+
 [Tire pressure data](https://www.renehersecycles.com/tire-pressure-data-and-details/)
+
 [Dyneema](https://www.velonews.com/events/tour-de-france/team-sunweb-jerseys-feature-dyneema-for-added-protection/)
