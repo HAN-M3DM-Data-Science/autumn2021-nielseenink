@@ -7,20 +7,71 @@ output:
     toc: yes
     toc_depth: 2
 ---
+The following video shows how traditional marketing slowly turns into data driven marketing.
+Looking at data from a marketing perspective, it can be used to make predictions about what a customer wants and what they are willing to pay for it. Also, by collecting data like location a rough prediction can be made what other people may like in the same area.
 
-Search YouTube for suitable business case examples on data driven business. Copy the embed code below.
+<iframe width="600" height="400" src="https://www.youtube.com/embed/khycfkmMovQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 
-<---- Embed code here ---->
+**What features define a data driven business?**
+
+According to At Internet(N.D.) a data driven business is defined as followed:
+*"When a company employs a “data-driven” approach, it means it makes strategic decisions based on data analysis and interpretation. A data-driven approach enables companies to examine and organise their data with the goal of better serving their customers and consumers."*
+
+Examples of data driven companies are: Microsoft, Netflix, Amazon Prime Video, Uber, Coca Cola, Socrata, etc.
+All these companies use the data they collect from processes or customers to make decisions on all levels (from strategic to operational).
+
+**What are the important features of a data culture?**
+
+According to Carl Anderson and Micheal Li form TechCrunch (2017) these are important features of a data culture:
+
+- The same data can't be on different places, one central place is necessary. Obviously this data needs to be of high quality and easy to find.
+- There needs to be a so called 'data dictionary' where everyone can see what which data means.
+- Everyone can access the data, dashboards and outcomes.
+- Everyone needs to know what they are doing. This is done by the data dictionary and prper training for everyone.
+- The reports need to be used! Trust the data and algorithms, don't be afraid of this making your job obsolete, it only supports you to do your job better!
 
 
-## What features define a data driven business?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+**What are the transformation steps towards a mature data driven business?**
 
-## What are the important features of a data culture?
+Looking through a heap of scientific articles about maturity models for data driven businesses I couldn't find a real standard.
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
 
-## What are the transformation steps towards a mature data driven business?
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+![Data competency maturity model](https://prnt.sc/1wigayg)
+![Stages of the data competency maturity model](https://prnt.sc/1wigjv8)
+Cech, Spaulding and Cazier (2018)
 
+![Maturity Model for Data-Driven Manufacturing](https://prnt.sc/1wigtg2)
+Weber, Königsberger, Kassner and Mitschang (2017)
+
+Unfortunately R Markdown doesn't display these, but the links are clickable if you want to have a look.
+
+I used a model and axplanation form Zencos, written by St. Jeor, Matz and Murphy (2019).
+
+![The Analytics Maturity Model](https://www.zencos.com/wp-content/uploads/2019/08/FINAL-AMM-Graphic-1024x878.png)
+1. Chaotic
+  + The typical company is dependent on spreadsheets and ad-hoc analysis. Everything is a one-off, so rarely do tasks go beyond one person doing work in a single spreadsheet.
+
+2. Repeatable
+  + A company’s actions move from ad hoc spreadsheet reporting to descriptive analyses of the past. Managers capture a broader view of their processes and better understand the big picture. A more data-driven approach allows managers to streamline the business and cut out unnecessary costs from the sales process.
+
+3. Standardized
+  + The data is made available across departments and more accessible for everyone.
+
+4. Integrated
+  + The company aligned to standards to be more strategic. In Level 4, the chief executives and the other leadership teams want to use data across the enterprise. One of the chief executives spearheads the effort to move the organization forward using data as the key to understanding the sales pipeline and serving customers better. They begin to build out a dedicated analytics team.
+
+5. Optimized
+  + The company has fully implemented a data-driven approach to the business decision process. The executive team includes firmly defined and established roles for a chief analytics officer (CAO) and/or chief data officer (CDO).
+
+**References**
+
+[At Internet. (N.D.), Geraadpleegd op 17-10-2021, van](https://www.atinternet.com/en/glossary/data-driven/#:~:text=When%20a%20company%20employs%20a,serving%20their%20customers%20and%20consumers.)
+
+[Anderson, C., Li, M. (24 juni, 2017)Five building blocks of a data-driven culture. TechCrunch. Geraadpleegd op: 17-10-2021, van](https://techcrunch.com/2017/06/23/five-building-blocks-of-a-data-driven-culture/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAM0oBYJL7w3cQYNZiBhs0u4sPvtbfAK-llsCl29kV7yJyJjDwzorTujiDUQMoOqgz9ebx1Y6E2LPvJqdw5fDhgabzRf_vFhZf-Bo6SNuKUCuW4E_ggee_7sMAeXPuoOO_gMiQS0damVgIkJSC-iIKPkqYquVkfPACvSmZ1nxUG1-)
+
+[Cech, T., Spaulding, T. and Cazier, J. (28 november, 2018) Data competence maturity: developing data-driven decision making. Journal of Research in Innovative Teaching & Learning. Volume (139). Geraadpleegd op: 17-10-2021, van](https://www.emerald.com/insight/content/doi/10.1108/JRIT-03-2018-0007/full/pdf?title=data-competence-maturity-developing-data-driven-decision-making)
+
+[Weber, C., Königsberger, J., Kassner, L., Mitschang, B. (2017) M2DDM – A Maturity Model for Data-Driven Manufacturing. In Procedia CIRP. Elsevier, Volume 63. P. 173-178. Geraadpleegd op: 17-10-2021, van](https://doi.org/10.1016/j.procir.2017.03.309)
+
+[St. Jeor, C., Matz, K. and Murphy, B. (16 augustus, 2019). The Analytics Maturity Model Spotlight: Your Guide To Success. Zencos. Geraadpleegd op: 17-10-2021, van](https://www.zencos.com/blog/analytics-maturity-model-5-step-guide/)
