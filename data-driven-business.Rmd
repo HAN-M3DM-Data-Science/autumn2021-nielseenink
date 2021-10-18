@@ -1,5 +1,5 @@
 ---
-title: "Assigment - Data Driven Business"
+title: "Assignment - Data Driven Business"
 author: "Niels Eenink"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
@@ -37,18 +37,21 @@ According to Carl Anderson and Micheal Li form TechCrunch (2017) these are impor
 Looking through a heap of scientific articles about maturity models for data driven businesses I couldn't find a real standard.
 
 
-![Data competency maturity model](https://prnt.sc/1wigayg)
-![Stages of the data competency maturity model](https://prnt.sc/1wigjv8)
+[Data competency maturity model](https://prnt.sc/1wigayg)
+[Stages of the data competency maturity model](https://prnt.sc/1wigjv8)
 Cech, Spaulding and Cazier (2018)
 
-![Maturity Model for Data-Driven Manufacturing](https://prnt.sc/1wigtg2)
+[Maturity Model for Data-Driven Manufacturing](https://prnt.sc/1wigtg2)
 Weber, Königsberger, Kassner and Mitschang (2017)
 
+
 Unfortunately R Markdown doesn't display these, but the links are clickable if you want to have a look.
+
 
 I used a model and axplanation form Zencos, written by St. Jeor, Matz and Murphy (2019).
 
 ![The Analytics Maturity Model](https://www.zencos.com/wp-content/uploads/2019/08/FINAL-AMM-Graphic-1024x878.png)
+
 1. Chaotic
   + The typical company is dependent on spreadsheets and ad-hoc analysis. Everything is a one-off, so rarely do tasks go beyond one person doing work in a single spreadsheet.
 

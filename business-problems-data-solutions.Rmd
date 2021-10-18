@@ -1,5 +1,5 @@
 ---
-title: "Assigment - Data Problems vs Data Solutions"
+title: "Assignment - Data Problems vs Data Solutions"
 author: "Niels Eenink"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
@@ -28,14 +28,14 @@ With this data they can can do all kinds of useful analysis and make better deci
 
 **How was it translated into a data mining problem?**
 
-I used the ECPLIPSE model, provided by Wilridge and Bell(2002).
+I used the ECLIPSE model, provided by Wilridge and Bell(2002).
 
-E.	Try to collect as much, relevant and irrelevant data about a customer so predictions and decisions can be made.
-C.	A lot of departments can use this data, like the product department, customer service, finance, etc. 
-L.	Mostly internal, but customers also benefit from this, so a little external.
-I.	When a customer uses the personal offerings and the changes in lay-out etc. bring more revenue.
-P.	Automated using the data collected from the end users (clients)
-SE.	Personal offerings and decision making about product offerings and/or store lay-out
+**E.**    Try to collect as much, relevant and irrelevant data about a customer so predictions and decisions can be made.\
+**C.**    A lot of departments can use this data, like the product department, customer service, finance, etc.\
+**L.**    Mostly internal, but customers also benefit from this, so a little external.\
+**I.**    When a customer uses the personal offerings and the changes in lay-out etc. bring more revenue.\
+**P.**    Automated using the data collected from the end users (clients)\
+**SE.**   Personal offerings and decision making about product offerings and/or store lay-out\
 
 So supermarkets can use the data they collect to make more personal offers to their customers.
 Example:

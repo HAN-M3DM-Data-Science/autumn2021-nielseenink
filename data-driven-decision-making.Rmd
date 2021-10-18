@@ -1,5 +1,5 @@
 ---
-title: "Assigment - Data Driven Decision Making"
+title: "Assignment - Data Driven Decision Making"
 author: "Niels Eenink"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
